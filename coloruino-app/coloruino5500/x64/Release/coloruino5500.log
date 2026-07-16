@@ -1,0 +1,35 @@
+﻿cl : command line  warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line  warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line  warning D9025: overriding '/fp:precise' with '/fp:fast'
+  main.cpp
+  Config.cpp
+cl : command line  warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line  warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line  warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line  warning D9025: overriding '/fp:precise' with '/fp:fast'
+  Globals.cpp
+cl : command line  warning D9025: overriding '/fp:precise' with '/fp:fast'
+  ConfigManager.cpp
+  ColorDetector.cpp
+  ScreenCapture.cpp
+cl : command line  warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line  warning D9025: overriding '/fp:precise' with '/fp:fast'
+  CaptureLoop.cpp
+cl : command line  warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line  warning D9025: overriding '/fp:precise' with '/fp:fast'
+  MouseMove.cpp
+  HardwareInjector.cpp
+  WebServer.cpp
+cl : command line  warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line  warning D9025: overriding '/fp:precise' with '/fp:fast'
+cl : command line  warning D9025: overriding '/fp:precise' with '/fp:fast'
+  AntiDebug.cpp
+  Auth.cpp
+cl : command line  warning D9025: overriding '/fp:precise' with '/fp:fast'
+  LicenseManager.cpp
+  Stopwatch.cpp
+cl : command line  warning D9025: overriding '/fp:precise' with '/fp:fast'
+  SystemUtils.cpp
+  DynamicApi.cpp
+C:\Users\sajja\Downloads\FINAL\Coloruino_v5\coloruino-app\coloruino5500\src\input\HardwareInjector.cpp(97,71): error C2065: 'INJECT_REPORT_SIZE': undeclared identifier
+C:\Users\sajja\Downloads\FINAL\Coloruino_v5\coloruino-app\coloruino5500\src\input\HardwareInjector.cpp(104,20): error C2065: 'INJECT_REPORT_SIZE': undeclared identifier
