@@ -1,0 +1,8 @@
+Spotify
+DispCalHelper
+AdobeUpdateService
+OneDrive
+MicrosoftEdgeUpdate
+WindowsDefender
+PhoneExperienceHost
+SearchApp
